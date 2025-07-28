@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A legendary 35mm rangefinder camera from the 1950s, the Leica M3 is prized for its precision engineering, solid brass construction, and iconic design. Ideal for collectors and film photography enthusiasts, this model is in excellent working condition with clear viewfinder and smooth shutter action.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2h 45m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/TBBFVC42/one.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Gibson Electric Guitar",
+      "description": "A vintage 1965 Gibson SG Standard electric guitar, signed by rock legend James—an iconic piece for collectors and music enthusiasts alike.",
+      "currentBidPrice": 1500,
+      "timeLeft": "1h 15m",
+      "bidsCount": 25,
+      "image": "https://i.ibb.co.com/XxjrdfwV/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro 2021",
+      "description": "Lightly used M1 Pro MacBook Pro with 16GB RAM and 512GB SSD.",
+      "currentBidPrice": 1800,
+      "timeLeft": "3h 5m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/Mkqb84PL/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Vintage Rolex Watch",
+      "description": "A classic 1970s Rolex in excellent condition with original box and papers.",
+      "currentBidPrice": 900,
+      "timeLeft": "4h 30m",
+      "bidsCount": 10,
+      "image": "https://www.bobswatches.com/images/managed/rolex-submariner-sizes.png"
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "description": "A rare first edition of F. Scott Fitzgerald's iconic novel, 'The Great Gatsby'—a timeless classic of American literature, highly sought after by collectors.",
+      "currentBidPrice": 650,
+      "timeLeft": "5h 10m",
+      "bidsCount": 35,
+      "image": "https://i.ibb.co.com/jvtMcsRp/Bid6-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Art Deco Jewelry",
+      "description": "Geometric, bold pieces made in the 1920s–30s, often with emeralds, sapphires, or diamonds.",
+      "currentBidPrice": 2300,
+      "timeLeft": "6h 20m",
+      "bidsCount": 16,
+      "image": "https://images.stockcake.com/public/0/5/0/0508e4d2-ded7-401c-8633-cbff43a14e51_large/emerald-art-deco-stockcake.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Brass or Copper Telescope",
+      "description": "Nautical-style telescopes from the 1800s, once used by sailors or explorers.",
+      "currentBidPrice": 7200,
+      "timeLeft": "1d 3h",
+      "bidsCount": 40,
+      "image": "https://images.stockcake.com/public/b/2/6/b268ab2e-681e-4c3b-a20d-56100035e3bb_large/vintage-telescope-display-stockcake.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Old World Map ",
+      "description": "17th to 19th-century maps that show how the world was once imagined – great for display.",
+      "currentBidPrice": 450,
+      "timeLeft": "3h 50m",
+      "bidsCount": 22,
+      "image": "https://images.stockcake.com/public/5/f/5/5f59b585-1e80-46ad-98ef-0c2018863e08_large/vintage-navigator-s-desk-stockcake.jpg"
+    }
+  ]
+  
