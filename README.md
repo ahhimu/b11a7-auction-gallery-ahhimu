@@ -83,7 +83,8 @@ This project is built using **ReactJS**
 - 8 Git commits done
 
 ---
-
-Happy Coding! 🚀  
-If you get stuck, remember to reach out during support sessions! 💬
+🧑‍💻 Author
+Md. Ahsan Habib (Ahhimu)
+📧 Email: ahasanhabibhimu.bc@gmail.com
+🔗 GitHub: github.com/ahhimu
 
